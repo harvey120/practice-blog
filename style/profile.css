@@ -1,0 +1,22 @@
+
+
+.mitad {
+    height: 200px;
+    overflow: hidden;   
+}
+
+.parallax {
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.subir {
+    margin-top: -50px;
+}
+
+.subir img {
+    width: 100px;
+}
